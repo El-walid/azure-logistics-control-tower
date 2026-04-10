@@ -147,4 +147,3 @@ azure-logistics-control-tower/
 * [Malt](https://www.malt.com/profile/elwalidelalaouifeks)
 
 ```
-```
