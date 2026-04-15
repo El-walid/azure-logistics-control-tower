@@ -11,7 +11,6 @@
 
 Moving beyond static reporting, this project implements a **Serverless Data Pipeline** using **Azure Functions** to automate data ingestion. It acts as a "Digital Watchdog," instantly detecting new logistics files, cleaning them using Python (Pandas), and enforcing data integrity in **Azure SQL** before visualizing KPIs in **Power BI**.
 
----
 
 ## 🏗️ Technical Architecture (The "Watchdog" Pipeline)
 The system is event-driven. As soon as a logistics file enters the cloud, the architecture reacts automatically.
